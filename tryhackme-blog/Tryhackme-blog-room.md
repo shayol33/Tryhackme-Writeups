@@ -171,15 +171,15 @@ from our nmap scan we can see that a directory called “robots.txt” exist
 
 we try to access ‘blog.thm:80’
 
-![Screenshot from 2023-09-29 22-39-52.png](/Screenshot_from_2023-09-29_22-39-52.png)
+![Screenshot from 2023-09-29 22-39-52.png](tryhackme-blog/Screenshot_from_2023-09-29_22-39-52.png)
 
 we visit ‘blog.thm/robots.txt’
 
-![Screenshot from 2023-09-29 21-01-34.png](Tryhackme%20blog%20room%2095a2025ae92d4b6a87d6e969275448d7/Screenshot_from_2023-09-29_21-01-34.png)
+![Screenshot from 2023-09-29 21-01-34.png](tryhackme-blog/Screenshot_from_2023-09-29_21-01-34.png)
 
 Now if we try to access ‘blog.thm/wp-admin’ we get an WordPress login screen!
 
-![Screenshot from 2023-09-29 21-08-26.png](Tryhackme%20blog%20room%2095a2025ae92d4b6a87d6e969275448d7/Screenshot_from_2023-09-29_21-08-26.png)
+![Screenshot from 2023-09-29 21-08-26.png](tryhackme-blog/Screenshot_from_2023-09-29_21-08-26.png)
 
 we use ‘wpscan’ to enumerate all users available on the WordPress
 
