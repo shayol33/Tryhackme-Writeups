@@ -171,7 +171,7 @@ from our nmap scan we can see that a directory called “robots.txt” exist
 
 we try to access ‘blog.thm:80’
 
-![Screenshot from 2023-09-29 22-39-52.png](Tryhackme%20blog%20room%2095a2025ae92d4b6a87d6e969275448d7/Screenshot_from_2023-09-29_22-39-52.png)
+![Screenshot from 2023-09-29 22-39-52.png](/Screenshot_from_2023-09-29_22-39-52.png)
 
 we visit ‘blog.thm/robots.txt’
 
