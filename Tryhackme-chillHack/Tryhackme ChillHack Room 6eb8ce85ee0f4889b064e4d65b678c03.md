@@ -4,6 +4,8 @@
 
 *Easy level CTF.  Capture the flags and have fun!*
 
+![cover.png](Tryhackme%20ChillHack%20Room%206eb8ce85ee0f4889b064e4d65b678c03/cover.png)
+
 Let’s start with an nmap scan
 
 ```bash
